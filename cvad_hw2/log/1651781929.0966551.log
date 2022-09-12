@@ -1,0 +1,1 @@
+2022-05-05 20:18:49,096 - root - INFO - Namespace(batch_size=16, epoch=5, ex_file_path='/home/cangozpi/Desktop/hw2_data/ex_list', feature_dim=64, learning_rate=0.002, load_epoch=None, lr_decay_schedule=0, model_save_path='./', num_workers=0, pretrain_path=None, training_name=None, val_ex_file_path=None, validation_epoch=1, weight_decay=0.0, world_size=1)
